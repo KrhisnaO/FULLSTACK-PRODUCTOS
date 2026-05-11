@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fullstack_productos.productos.ProductoControllerTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.598 s -- in fullstack_productos.productos.ProductoControllerTest

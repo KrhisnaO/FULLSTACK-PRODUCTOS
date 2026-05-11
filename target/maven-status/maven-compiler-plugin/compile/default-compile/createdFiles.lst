@@ -1,6 +1,10 @@
 fullstack_productos/productos/service/ProductoService.class
+fullstack_productos/productos/exception/SolicitudInvalidaException.class
+fullstack_productos/productos/exception/ErrorDetails.class
 fullstack_productos/productos/service/ProductoServiceImpl.class
+fullstack_productos/productos/exception/ResourceNotFoundException.class
 fullstack_productos/productos/ProductosApplication.class
 fullstack_productos/productos/repository/ProductoRepository.class
 fullstack_productos/productos/model/Producto.class
 fullstack_productos/productos/controller/ProductoController.class
+fullstack_productos/productos/exception/GlobalExceptionHandler.class
